@@ -4,5 +4,3 @@ spring:
       resourceserver:
         jwt:
           issuer-uri: https://auth-server:9000
-
-logging.level.root: trace
