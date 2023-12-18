@@ -1,1 +1,1 @@
-### This project was created for the article [Spring Boot 3 + WebSocket + OAuth 2.0 + TLS](https://medium.com/@HereAndBeyond/spring-boot-3-websocket-oauth-2-0-tls-bf479327339f)
+### This project was created for the article [Solving CORS headaches during local development with NGINX](https://medium.com/@HereAndBeyond/solving-cors-headaches-during-local-development-with-nginx-e0dfc76b3851)
